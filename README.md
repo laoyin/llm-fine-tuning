@@ -100,5 +100,7 @@ lora 模型：   lm3_lora_model
 ```
 
 
+中文数据集：https://modelscope.cn/datasets/baicai003/Llama3-Chinese-dataset/summary
+
 
 ### 期待您的issue
